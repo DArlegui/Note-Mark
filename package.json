@@ -24,6 +24,7 @@
     "@electron-toolkit/preload": "^3.0.0",
     "@electron-toolkit/utils": "^3.0.0",
     "@mdxeditor/editor": "^3.0.1",
+    "jotai": "^2.8.0",
     "prefixer": "^0.0.3"
   },
   "devDependencies": {
